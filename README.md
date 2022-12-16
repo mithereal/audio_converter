@@ -1,6 +1,6 @@
 # AudioConverter
 
-** A genserver that watches your filesystem for changes and converts the new files (.wav) to a different format (.mp3). **
+** A genserver that watches your filesystem for changes and converts the new files (.wav) to a different format (.mp3)..**
 
 ## Installation
 
